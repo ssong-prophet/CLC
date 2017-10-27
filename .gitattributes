@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+perspective.gif filter=lfs diff=lfs merge=lfs -text
+perspective2.gif filter=lfs diff=lfs merge=lfs -text
+perpsective.gif filter=lfs diff=lfs merge=lfs -text

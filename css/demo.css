@@ -280,7 +280,7 @@ a:focus {
 
 .grid__item--text {
 	font-size: .85vw;
-	line-height: 1.2;
+	line-height: 1.3;
 	display: flex;
 	color: inherit;
 	color: var(--grid-text);

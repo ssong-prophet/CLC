@@ -352,10 +352,10 @@ a:focus {
 .grid--layout-4 .grid__item:nth-child(10) { grid-area: 22 / 20 / 28 / 23; background-image: url(../img/line10.png); }
 .grid--layout-4 .grid__item:nth-child(11) { grid-area: 5 / 23 / 11 / 27; background-image: url(../img/line11.png); }
 .grid--layout-4 .grid__item:nth-child(12) { grid-area: 11 / 23 / 17	/ 30; background-image: url(../img/line12.png); }
-.grid--layout-4 .grid__item:nth-child(13) { grid-area: 17 / 26 / 23 / 31; background-image: url(../img/line15.gif); }
-.grid--layout-4 .grid__item--name { grid-area: 15 / 1 / 3 / 11; }
+.grid--layout-4 .grid__item:nth-child(13) { grid-area: 2 / 1 / 9 / 6; background-image: url(../img/line15.gif); }
+.grid--layout-4 .grid__item--name { grid-area: 18 / 1 / 20 / 10; }
 .grid--layout-4 .grid__item--title { grid-area: 1 / 27 / 11 / 29; }
-.grid--layout-4 .grid__item--text { grid-area: 23 / 1 / 23 / 6; }
+.grid--layout-4 .grid__item--text { grid-area: 25 / 30 / 22 / 23; }
 .grid--layout-4 .grid__item--nav-prev { grid-area: 4 / 6 / 9 / 11; }
 .grid--layout-4 .grid__item--nav-next { grid-area: 24 / 15 / 29 / 20; }
 

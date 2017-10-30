@@ -422,12 +422,12 @@ a:focus {
 /* Layout 5 */
 .grid--layout-5 .grid__item:first-child { grid-area: 27 / 15 / 19 / 9; background-image: url(../img/shape1.png); }
 .grid--layout-5 .grid__item:nth-child(2) { grid-area: 3 / 5 / 14 / 10; background-image: url(../img/shape2.png); }
-.grid--layout-5 .grid__item:nth-child(3) { grid-area: 23 / 5 / 14 / 1; background-image: url(../img/shape3.png); }
+.grid--layout-5 .grid__item:nth-child(3) { grid-area: 17 / 5 / 10 / 1; background-image: url(../img/shape3.png); }
 .grid--layout-5 .grid__item:nth-child(4) { grid-area: 19 / 15 / 26 / 20; background-image: url(../img/shape4.png); }
 .grid--layout-5 .grid__item:nth-child(5) { grid-area: 28 / 5 / 19 / 9; background-image: url(../img/shape5.png); }
 .grid--layout-5 .grid__item:nth-child(6) { grid-area: 3 / 10 / 19 / 15; background-image: url(../img/shape6.png); }
 .grid--layout-5 .grid__item:nth-child(7) { grid-area: 11 / 15 / 19 / 20; background-image: url(../img/shape7.png); }
-.grid--layout-5 .grid__item:nth-child(8) { grid-area: 28 / 5 / 23 / 1; background-image: url(../img/shape8.png); }
+.grid--layout-5 .grid__item:nth-child(8) { grid-area: 17 / 5 / 23 / 1; background-image: url(../img/shape8.png); }
 .grid--layout-5 .grid__item:nth-child(9) { grid-area: 20 / 20 / 30 / 24; background-image: url(../img/shape9.png); }
 .grid--layout-5 .grid__item:nth-child(10) { grid-area: 20 / 28 / 25 / 30; background-image: url(../img/shape10.png); }
 .grid--layout-5 .grid__item:nth-child(11) { grid-area: 4 / 15 / 11 / 22; background-image: url(../img/shape.gif); }
@@ -435,7 +435,7 @@ a:focus {
 .grid--layout-5 .grid__item:nth-child(13) { grid-area: 20 / 24 / 30 / 28; background-image: url(../img/shape14.png); }
 .grid--layout-5 .grid__item--name { grid-area: 19 / 1 / 30 / 23; }
 .grid--layout-5 .grid__item--title { grid-area: 1 / 27 / 20 / 28; }
-.grid--layout-5 .grid__item--text { grid-area: 7 / 1 / 21 / 5; text-align: left;}
+.grid--layout-5 .grid__item--text { grid-area: 3 / 1 / 21 / 5; text-align: left;}
 .grid--layout-5 .grid__item--nav-prev { grid-area: 14 / 5 / 19 / 10; }
 .grid--layout-5 .grid__item--nav-next { grid-area: 6 / 22 / 11 / 27; }
 

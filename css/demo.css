@@ -388,7 +388,7 @@ a:focus {
 .grid--layout-3 .grid__item:nth-child(6) { grid-area: 11 / 10 / 19 / 15; background-image: url(../img/perspective5.gif); }
 .grid--layout-3 .grid__item:nth-child(7) { grid-area: 11 / 15 / 19 / 20; background-image: url(../img/perspective2.gif); }
 .grid--layout-3 .grid__item:nth-child(8) { grid-area: 1 / 18 / 6 / 23; background-image: url(../img/perspective8.png); }
-.grid--layout-3 .grid__item:nth-child(9) { grid-area: 20 / 20 / 28 / 26; background-image: url(../img/perspective.gif); }
+.grid--layout-3 .grid__item:nth-child(9) { grid-area: 20 / 20 / 28 / 26; background-image: url(../img/perspective4.gif); }
 .grid--layout-3 .grid__item:nth-child(10) { grid-area: 19 / 5 / 30 / 10; background-image: url(../img/perspective10.png); }
 .grid--layout-3 .grid__item:nth-child(11) { grid-area: 4 / 23 / 11 / 27; background-image: url(../img/perspective3.gif); }
 .grid--layout-3 .grid__item:nth-child(12) { grid-area: 11 / 20 / 20	/ 30; background-image: url(../img/perspective4.png); }

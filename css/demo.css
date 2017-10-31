@@ -401,13 +401,13 @@ a:focus {
 
 /* Layout 4 */
 .grid--layout-1 .grid__item:first-child { grid-area: 3 / 10 / 10 / 15; background-image: url(../img/adapt1.gif); }
-.grid--layout-1 .grid__item:nth-child(2) { grid-area: 14 / 4 / 23 / 10; background-image: url(../img/adapt2.png); }
+.grid--layout-1 .grid__item:nth-child(2) { grid-area: 14 / 4 / 21 / 10; background-image: url(../img/perspective5.png); }
 .grid--layout-1 .grid__item:nth-child(3) { grid-area: 14 / 1 / 23 / 4; background-image: url(../img/adapt3.png); }
 .grid--layout-1 .grid__item:nth-child(4) { grid-area: 17 / 10 / 26 / 15; background-image: url(../img/adapt4.png); }
 .grid--layout-1 .grid__item:nth-child(5) { grid-area: 10 / 10 / 17 / 15; background-image: url(../img/adapt5.png); }
 .grid--layout-1 .grid__item:nth-child(6) { grid-area: 15 / 15 / 24 / 20; background-image: url(../img/adapt6.png); }
 .grid--layout-1 .grid__item:nth-child(7) { grid-area: 11 / 27 / 20 / 20; background-image: url(../img/adapt7.png); }
-.grid--layout-1 .grid__item:nth-child(8) { grid-area: 1 / 15 / 15 / 20; background-image: url(../img/adapt8.png); }
+.grid--layout-1 .grid__item:nth-child(8) { grid-area: 1 / 15 / 15 / 20; background-image: url(../img/new.png); }
 .grid--layout-1 .grid__item:nth-child(9) { grid-area: 20 / 20 / 29 / 24; background-image: url(../img/adapt2.gif); }
 .grid--layout-1 .grid__item:nth-child(10) { grid-area: 8 / 1 / 14 / 5; background-image: url(../img/adapt3.gif); }
 .grid--layout-1 .grid__item:nth-child(11) { grid-area: 1 / 20 / 11 / 26; background-image: url(../img/adapt.gif); }
@@ -420,11 +420,11 @@ a:focus {
 .grid--layout-1 .grid__item--nav-next { grid-area: 20 / 24 / 25 / 29; }
 
 /* Layout 5 */
-.grid--layout-5 .grid__item:first-child { grid-area: 27 / 15 / 19 / 9; background-image: url(../img/shape1.png); }
+.grid--layout-5 .grid__item:first-child { grid-area: 27 / 15 / 19 / 9; background-image: url(../img/perspective3.png); }
 .grid--layout-5 .grid__item:nth-child(2) { grid-area: 2 / 1 / 10 / 5; background-image: url(../img/shape7.png); }
 .grid--layout-5 .grid__item:nth-child(3) { grid-area: 17 / 5 / 10 / 1; background-image: url(../img/shape3.png); }
 .grid--layout-5 .grid__item:nth-child(4) { grid-area: 19 / 15 / 26 / 20; background-image: url(../img/shape4.png); }
-.grid--layout-5 .grid__item:nth-child(5) { grid-area: 28 / 5 / 19 / 9; background-image: url(../img/shape5.png); }
+.grid--layout-5 .grid__item:nth-child(5) { grid-area: 25 / 5 / 19 / 9; background-image: url(../img/18.png); }
 .grid--layout-5 .grid__item:nth-child(6) { grid-area: 3 / 10 / 19 / 15; background-image: url(../img/shape6.png); }
 .grid--layout-5 .grid__item:nth-child(7) { grid-area: 5 / 15 / 19 / 20; background-image: url(../img/shape2.png); }
 .grid--layout-5 .grid__item:nth-child(8) { grid-area: 17 / 5 / 23 / 1; background-image: url(../img/shape8.png); }

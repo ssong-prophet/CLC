@@ -435,7 +435,7 @@ a:focus {
 .grid--layout-5 .grid__item:nth-child(13) { grid-area: 20 / 24 / 30 / 28; background-image: url(../img/shape14.png); }
 .grid--layout-5 .grid__item--name { grid-area: 19 / 1 / 30 / 23; }
 .grid--layout-5 .grid__item--title { grid-area: 1 / 27 / 20 / 28; }
-.grid--layout-5 .grid__item--text { grid-area: 4 / 5 / 14 / 10; text-align: left;}
+.grid--layout-5 .grid__item--text { grid-area: 3 / 5 / 14 / 10; text-align: left;}
 .grid--layout-5 .grid__item--nav-prev { grid-area: 14 / 5 / 19 / 10; }
 .grid--layout-5 .grid__item--nav-next { grid-area: 6 / 25 / 11 / 30; }
 

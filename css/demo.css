@@ -391,7 +391,7 @@ a:focus {
 .grid--layout-3 .grid__item:nth-child(9) { grid-area: 20 / 20 / 27 / 24; background-image: url(../img/perspective4.gif); }
 .grid--layout-3 .grid__item:nth-child(10) { grid-area: 15 / 5 / 29 / 10; background-image: url(../img/adapt13.jpg); }
 .grid--layout-3 .grid__item:nth-child(11) { grid-area: 4 / 23 / 11 / 27; background-image: url(../img/newperspective2.png); }
-.grid--layout-3 .grid__item:nth-child(12) { grid-area: 11 / 20 / 20 / 30; background-image: url(../img/perspective4.png); }
+.grid--layout-3 .grid__item:nth-child(12) { grid-area: 11 / 20 / 20 / 30; background-image: url(../img/audi.png); }
 .grid--layout-3 .grid__item:nth-child(13) { grid-area: 14 / 1 / 25 / 5; background-image: url(../img/perspective13.png); }
 .grid--layout-3 .grid__item--name { grid-area: 19 / 1 / 30 / 23; }
 .grid--layout-3 .grid__item--title { grid-area: 1 / 27 / 11 / 29; }
